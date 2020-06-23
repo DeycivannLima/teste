@@ -1,6 +1,6 @@
 # Teste, aprendendo algo novo
- primeiro repositorio
+ **primeiro repositorio**
 
- TI é ótimo.
+ _TI é ótimo._
 
-Alteração feita no site 
+~~Alteração feita no site ~~
